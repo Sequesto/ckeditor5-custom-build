@@ -202,7 +202,7 @@ Editor.defaultConfig = {
     "Construct your document here. You can drag and drop questions and answers from the right hand side in your document.",
   exportWord: {
     tokenUrl:
-      "https://86063.cke-cs.com/token/dev/339fcd11262c646b82147d9271bc309fb2cfc9a8febdab6cd936625c05f1",
+      "https://86925.cke-cs.com/token/dev/5df6445d9e998771e2eb691d2ea6900fe60fe5ee1cc9c93c228802dbb54f",
   },
 };
 
